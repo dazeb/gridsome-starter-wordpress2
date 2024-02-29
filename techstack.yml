@@ -1,0 +1,58 @@
+repo_name: dazeb/gridsome-starter-wordpress2
+report_id: c691804e8572ee42036d2c8bba1206e1
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:26:42+00:00'
+requested_by: hjvedvik
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dazeb/gridsome-starter-wordpress2
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dazeb/gridsome-starter-wordpress2
+  detection_source: Repo Metadata
+- name: Netlify
+  description: Build, deploy and host your static site or app with a drag and drop
+    interface and automatic delpoys from GitHub or Bitbucket
+  website_url: https://www.netlify.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/dazeb/gridsome-starter-wordpress2/blob/master/netlify.toml
+  detection_source: netlify.toml
+  last_updated_by: Travis Reynolds
+  last_updated_on: 2019-05-13 11:15:05.000000000 Z
+- name: Gridsome
+  description: "Build blazing fast websites for any CMS or data with Vue.js &amp;
+    GraphQL ⚡️\U0001F49A"
+  website_url: https://gridsome.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/9764/EFXqgANU_400x400.jpg
+  detection_source_url: https://github.com/dazeb/gridsome-starter-wordpress2/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mario Neuhold
+  last_updated_on: 2020-04-03 16:21:50.000000000 Z
